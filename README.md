@@ -9,4 +9,4 @@ Teknoloji: HTML5, CSS3
 
 Kaynak: https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U
 <br />
-
+Demo: https://ndemir9.github.io/devchallenges.io-my-team-page/
